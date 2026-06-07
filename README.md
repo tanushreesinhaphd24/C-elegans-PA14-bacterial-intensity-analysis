@@ -1,5 +1,3 @@
-PA14 day-wise Bacterial Intensity and Deformation Index Analysis in C. elegans
-
 This repository contains Python scripts used to analyze intestinal bacterial colonization and intestinal deformation in Caenorhabditis elegans infected with Pseudomonas aeruginosa PA14.
 The repository includes scripts for:
 1.	Correlation analysis between normalized fluorescent bacterial intensity and apical membrane deformation index and generating plot figures along with statistical analysis.
