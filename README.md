@@ -23,7 +23,7 @@ The analyses use:
 
 •	Scatter plot representation of individual biological replicates
 
-Software Requirements
+Software Requirements:
 
 Python 3.13.5
 
