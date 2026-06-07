@@ -18,21 +18,33 @@ Statistical Analysis
 The analyses use:
 
 •	Spearman rank correlation
+
 •	Linear trend line visualization
+
 •	Scatter plot representation of individual biological replicates
 
 Software Requirements
+
 Python 3.13.5
+
 Required packages:
+
 •	NumPy
+
 •	Matplotlib
+
 •	SciPy
+
 •	Pandas (if used in the CFU analysis notebook)
 
 The notebooks generate:
+
 •	Scatter plots
+
 •	Correlation coefficients (Spearman’s ρ)
+
 •	Associated p-values
+
 •	Publication-quality figures
 
 If you use this code, please cite the associated manuscript and repository DOI.
