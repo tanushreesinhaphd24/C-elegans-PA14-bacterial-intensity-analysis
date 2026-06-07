@@ -2,16 +2,25 @@ This repository contains Python scripts used to analyze intestinal bacterial col
 The repository includes scripts for:
 1.	Correlation analysis between normalized fluorescent bacterial intensity and apical membrane deformation index and generating plot figures along with statistical analysis.
 2.	Correlation analysis between normalized fluorescent bacterial intensity and colony-forming units (CFU) and generating plot figures along with statistical analysis.
+
 Repository Contents
+
 Day-wise normalised bacterial intensity correlation with CFU
+
 This notebook evaluates the relationship between normalized fluorescent bacterial intensity and bacterial load measured by CFU per worm.
+
 PA14-bacterial-intensity-deformation-index-correlation-analysis
-This notebook investigates the relationship between normalized fluorescent bacterial intensity and apical membrane deformation index in wild-type (L4440) and cdc-42 RNAi animals.
+
+This notebook investigates the relationship between normalized fluorescent bacterial intensity and apical membrane deformation index in wild-type (L4440) and cdc-42 RNAi worms.
+
 Statistical Analysis
+
 The analyses use:
+
 •	Spearman rank correlation
 •	Linear trend line visualization
 •	Scatter plot representation of individual biological replicates
+
 Software Requirements
 Python 3.13.5
 Required packages:
